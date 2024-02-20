@@ -1,5 +1,5 @@
-<h2 align="left">🇫🇷​ French IT Student</h2>
-
+<h2 align="left">🇫🇷​</h2>
+<h3 align="left">Working for Résilience RP Minecraft server</h3>
 ###
 
 <div align="center">
