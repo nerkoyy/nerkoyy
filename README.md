@@ -1,4 +1,4 @@
-<h2 align="left">🇫🇷​</h2>
+<h1 align="left">Java & Web Developper</h1>
 <h3 align="left">Working for Résilience Minecraft server</h3>
 
 ###
