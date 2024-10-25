@@ -1,7 +1,7 @@
 <h1 align="left">Java & Web Developper</h1>
 <h3 align="left">Working for Résilience Minecraft server</h3>
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,php)](https://skillicons.dev)
 
 <div align="left">
   <a href="https://www.youtube.com/@nerkoy_vod" target="_blank">
