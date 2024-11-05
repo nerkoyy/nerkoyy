@@ -6,7 +6,7 @@
 <p>https://discord.gg/gNpzH2acer</p>
 
 <div align="left">
-  <a href="https://www.youtube.com/@nerkoy_vod" target="_blank">
+  <a href="https://www.youtube.com/@nerkoydev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=NerKoy%20-%20VOD&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
