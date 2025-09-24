@@ -4,4 +4,4 @@
 
 ###
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkoyy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkoyy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
