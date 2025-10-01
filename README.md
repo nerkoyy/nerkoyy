@@ -4,4 +4,12 @@
 
 ###
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkoyy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkoyy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+<h2 align="left">Working On/For :</h2>
+<ul></ul>
+
+<h2 align="left">Worked On/For :</h2>
+<ul>
+  <li>Résilience City RP</li>
+</ul>
