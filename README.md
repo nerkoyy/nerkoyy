@@ -1,6 +1,6 @@
 <h1 align="left">Fullstack Developer</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,vue,html,css,php,ts,js,c,mysql,docker,intelij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vue,symfony,html,css,php,ts,js,c,mysql,docker,intelij)](https://skillicons.dev)
 
 ###
 
