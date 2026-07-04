@@ -10,7 +10,7 @@
 <h2 align="left">Worked On/For :</h2>
 <ul>
   <li>Efluid</li>
-  <li>Résilience City RP</li>
+  <li>Résilience RP</li>
   <li>Real Informatique</li>
 </ul>
 
